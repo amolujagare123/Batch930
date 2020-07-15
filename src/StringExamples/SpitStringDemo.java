@@ -14,7 +14,6 @@ public class SpitStringDemo {
             System.out.println(stArr[i]);
         }
 
-
     }
 
     // IN ABOVE STRING PRINT ONLY THE WORDS THAT ENDS WITH  's'
