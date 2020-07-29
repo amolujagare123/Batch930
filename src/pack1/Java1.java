@@ -1,5 +1,9 @@
 package pack1;
 
+import static FinalStaticKeyword.StaticDemo.college;
+
+
+
 public class Java1 {
 
    public  int i1;
@@ -20,11 +24,15 @@ public class Java1 {
 
     public static void main(String[] args)
     {
-        Java1 ob = new Java1();
+       /* Java1 ob = new Java1();
         ob.i1=10;
 
         ob.str1 = "assa";
-        ob.d1 =78.3;
+        ob.d1 =78.3;*/
+
+
+
+        System.out.println(college);
 
     }
 }

@@ -13,6 +13,9 @@ public class DateExample {
         SimpleDateFormat sd = new SimpleDateFormat("dd-MM-yyyy");
 
         String dateStr = sd.format(date);
+
+
+
         System.out.println(dateStr);
 
       //  String dateStr0= "23-June- 2016" ; // dd-MMMM- yyyy
