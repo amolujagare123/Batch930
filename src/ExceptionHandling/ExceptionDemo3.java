@@ -6,7 +6,7 @@ import java.util.Date;
 
 public class ExceptionDemo3 {
 
-    public static void main(String[] args) throws ParseException {
+    public static void main(String[] args) {
 
         String dateStr = "29/11/2020";
 
@@ -24,6 +24,8 @@ public class ExceptionDemo3 {
 
            // e.printStackTrace();
         }
+
+
 
         System.out.println("Below is the converted date");
        // System.out.println(date);

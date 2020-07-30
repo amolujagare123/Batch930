@@ -6,7 +6,7 @@ import java.util.Date;
 
 public class StringToDateDemo {
 
-    public static void main(String[] args) throws ParseException {
+    public static void main(String[] args) throws ParseException  {
 
         String str = "13/08/2016";
 
