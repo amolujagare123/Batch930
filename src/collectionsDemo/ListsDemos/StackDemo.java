@@ -26,6 +26,15 @@ public class StackDemo {
         if(stack.contains("amol"))
             System.out.println("this is by praful");
 
+        // peek , empty , search
+
+        // peek - just returns the element not remove
+
+        System.out.println(stack.peek());
+        System.out.println(stack);
+        System.out.println(stack.empty());
+
+
 
     }
 }
